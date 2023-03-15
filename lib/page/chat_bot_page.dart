@@ -72,8 +72,6 @@ class ChatBotPageState extends State<ChatBotPage> with TickerProviderStateMixin 
   final int lastNumber = 39;      // 39개 문항
   double rateIncrease  = 0.0256;  // 증가율 39/100
 
-
-
   @override
   void initState() {
     // TODO: implement initState
