@@ -66,7 +66,6 @@ class ChatBotPageState extends State<ChatBotPage> with TickerProviderStateMixin 
   /// 처음에는 무조건 -1 로 시작해야된다.
   String userIdx = '-1';
 
-
   var currentProgress = 0;        // 진행 갯수
   var currentProgressValue = 0.0; // 진행 게이지
 
