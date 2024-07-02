@@ -30,7 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   dio: ^3.0.9
   logger: ^0.8.3
-  cross_connectivity: ^2.0.1
+
 
 dev_dependencies:
   flutter_test:
